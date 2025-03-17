@@ -1,9 +1,9 @@
 {
   "chainId": 101,
   "address": "GVK6UPN896dxATrLjtzZFm3XGUxWDPb17DFTFrL6o47T",
-  "symbol": "DOPE",
+  "symbol": "SDOP",
   "name": "Scam Dope",
   "decimals": 9,
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreicvzbvusidalptvyf3zque4aaytumpinle2ozi2rxdmygap43p54i",
-  "tags": ["memecoin", "scam"]
+  "tags": ["memecoin"]
 }
