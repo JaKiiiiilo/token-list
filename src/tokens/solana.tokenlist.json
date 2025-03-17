@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "GVK6UPN896dxATrLjtzZFm3XGUxWDPb17DFTFrL6o47T",
-  "symbol": "SDOP",
-  "name": "Scam Dope",
+  "address": "FnTBgmdfahwsSNxzK9urE2LgVVjPz1u3nYPnSg6N3Uca",
+  "symbol": "TRGD",
+  "name": "TRIGGERED",
   "decimals": 9,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreicvzbvusidalptvyf3zque4aaytumpinle2ozi2rxdmygap43p54i",
-  "tags": ["memecoin"]
+  "logoURI": "https://orange-quick-finch-896.mypinata.cloud/ipfs/bafkreiehn2em77fbybfgbpihufq5qqvs73eamp4angxtdlvmil7qml6vba",
+  "tags": ["mem-token"]
 }
